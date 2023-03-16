@@ -1,0 +1,58 @@
+.container-lists-money {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 83%;
+}
+
+.balance-container {
+  background-color: #ecfccb;
+  list-style-type: none;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 20%;
+  height: 20vh;
+  border: 2px solid #ecfccb;
+  border-radius: 30px;
+}
+
+.income-container {
+  background-color: #cffafe;
+  list-style-type: none;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 20%;
+  height: 20vh;
+  border-radius: 30px;
+  border: 2px solid #cffafe;
+}
+
+.expense-container {
+  background-color: #ede9fe;
+  list-style-type: none;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 20%;
+  height: 20vh;
+  border-radius: 30px;
+  border: 2px solid #ede9fe;
+}
+
+.name-list {
+  color: #7e858e;
+  font-size: 15px;
+  font-family: 'Roboto';
+  margin: 0px;
+}
+
+.image-money {
+  width: 90px;
+}
+
+.container-name {
+  display: flex;
+  flex-direction: column;
+}

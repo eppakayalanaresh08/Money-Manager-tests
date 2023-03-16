@@ -1,0 +1,17 @@
+.list-item {
+  list-style-type: none;
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
+  margin: 0px;
+  padding: 0px;
+}
+
+.delete-image {
+  width: 30px;
+}
+
+.delete-button {
+  background-color: transparent;
+  border: none;
+}
